@@ -30,20 +30,15 @@ Sunday                   90 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-BibTeX                   17 mins             ████████████░░░░░░░░░░░░░   47.76 % 
-Python                   15 mins             ███████████░░░░░░░░░░░░░░   43.53 % 
-TeX                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Claude Code              19 mins             █████████████░░░░░░░░░░░░   53.29 % 
-VS Code                  17 mins             ████████████░░░░░░░░░░░░░   46.71 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-WSL                      36 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 2026-06-28 19:50:59 UTC
+ Last Updated on 2026-07-05 19:48:24 UTC
 <!--END_SECTION:waka-->
