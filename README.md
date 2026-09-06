@@ -30,21 +30,48 @@ Sunday                   90 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               5 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   26.13 % 
+Python                   5 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   23.92 % 
+YAML                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+Other                    1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 % 
+Bash                     1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Codex Vscode             9 hrs 33 mins       ███████████░░░░░░░░░░░░░░   44.99 % 
+VS Code                  7 hrs 13 mins       ████████░░░░░░░░░░░░░░░░░   33.99 % 
+Claude Code              4 hrs 24 mins       █████░░░░░░░░░░░░░░░░░░░░   20.74 % 
+Codex CLI                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      21 hrs 4 mins       █████████████████████████   99.25 % 
+Linux                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+WSL                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 20 hrs 59 mins (98.78%)
+
+✍️ 5,020 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 7,628,090 Input Tokens, 564,929 Output Tokens
+
+💵 $38.39 Estimated AI Cost This Week
+
+🧠 122 AI Sessions, 364 AI Prompts
+
+GPT                      5,390 lines         █████████████████████████   99.70 % 
+Codex-Vscode             16 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 22,735 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.52% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026-08-30 21:16:15 UTC
+ Last Updated on 2026-09-06 20:33:01 UTC
 <!--END_SECTION:waka-->
