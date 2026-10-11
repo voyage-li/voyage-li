@@ -30,21 +30,45 @@ Sunday                   91 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      9 hrs 19 mins       ███████████████░░░░░░░░░░   61.51 % 
+Python                   4 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.08 % 
+Other                    1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 % 
+Bash                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.90 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 🔥 Editors: 
-VS Code                  0 secs              █████████████████████████   100.00 % 
+VS Code                  7 hrs 35 mins       █████████████░░░░░░░░░░░░   50.05 % 
+Claude Code              4 hrs 6 mins        ███████░░░░░░░░░░░░░░░░░░   27.12 % 
+Codex Vscode             3 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      15 hrs 2 mins       █████████████████████████   99.19 % 
+Windows                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 8 hrs 51 mins (58.33%)
+
+✍️ 1,607 lines written by AI, 968 lines written by hand (62.41% AI-written)
+
+🔤 4,082,193 Input Tokens, 303,617 Output Tokens
+
+💵 $20.24 Estimated AI Cost This Week
+
+🧠 18 AI Sessions, 125 AI Prompts
+
+GPT                      1,607 lines         █████████████████████████   100.00 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 62.41% of written lines came from AI
+📝 Concise Prompter — average 170 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 39.99% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026-10-04 21:40:42 UTC
+ Last Updated on 2026-10-11 22:09:59 UTC
 <!--END_SECTION:waka-->
