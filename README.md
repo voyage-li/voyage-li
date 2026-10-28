@@ -3,6 +3,8 @@
 - 🥤 blog [https://voyage-li.github.io/](https://voyage-li.github.io/)
 
 <!--START_SECTION:waka-->
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-148%20hrs%2045%20mins-blue?style=flat)
+
 **I'm a Night 🦉** 
 
 ```text
@@ -30,41 +32,45 @@ Sunday                   91 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 49 mins             █████████░░░░░░░░░░░░░░░░   36.55 % 
-Python                   41 mins             ████████░░░░░░░░░░░░░░░░░   30.69 % 
-JavaScript               40 mins             ████████░░░░░░░░░░░░░░░░░   30.53 % 
-PowerShell               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Python                   7 hrs 23 mins       █████████████░░░░░░░░░░░░   51.18 % 
+Markdown                 3 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.13 % 
+Other                    2 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+JavaScript               55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 
 🔥 Editors: 
-VS Code                  1 hr 40 mins        ███████████████████░░░░░░   74.91 % 
-Codex Vscode             33 mins             ██████░░░░░░░░░░░░░░░░░░░   25.09 % 
+Codex Vscode             8 hrs 46 mins       ███████████████░░░░░░░░░░   60.82 % 
+VS Code                  5 hrs 10 mins       █████████░░░░░░░░░░░░░░░░   35.83 % 
+Claude Code              28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
 
 💻 Operating System: 
-Windows                  2 hrs 14 mins       █████████████████████████   100.00 % 
+Mac                      11 hrs 5 mins       ███████████████████░░░░░░   76.80 % 
+Windows                  3 hrs 21 mins       ██████░░░░░░░░░░░░░░░░░░░   23.20 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 58 mins (88.42%)
+⏱ AI Coding Time: 14 hrs 9 mins (98.03%)
 
-✍️ 2,040 lines written by AI, 13 lines written by hand (99.37% AI-written)
+✍️ 15,597 lines written by AI, 13 lines written by hand (99.92% AI-written)
 
-🔤 406,228 Input Tokens, 164,504 Output Tokens
+🔤 4,678,887 Input Tokens, 1,182,695 Output Tokens
 
-💵 $6.80 Estimated AI Cost This Week
+💵 $46.81 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 17 AI Prompts
+🧠 15 AI Sessions, 111 AI Prompts
 
-GPT                      2,042 lines         █████████████████████████   100.00 % 
+GPT                      15,304 lines        █████████████████████████   98.06 % 
+DeepSeek                 302 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.37% of written lines came from AI
-📝 Concise Prompter — average 222 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🚀 High AI Trust — 0.63% of changed lines were hand-edited
+🤖 AI-Driven — 99.92% of written lines came from AI
+📝 Concise Prompter — average 122 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.08% of changed lines were hand-edited
 ```
 
 
- Last Updated on 2026-10-25 21:00:28 UTC
+ Last Updated on 2026-10-28 06:40:30 UTC
 <!--END_SECTION:waka-->
